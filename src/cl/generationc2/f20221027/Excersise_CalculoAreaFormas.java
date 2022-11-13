@@ -134,10 +134,5 @@ public class Excersise_CalculoAreaFormas {
 			System.out.println("el Area del triangulo es: " + ((lado1 + lado2 + lado3))); 
 		}
 		scanner.close();
-	
-
-	
-	
 	}
-	
 }

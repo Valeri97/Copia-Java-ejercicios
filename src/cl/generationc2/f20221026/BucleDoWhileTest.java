@@ -11,8 +11,7 @@ public class BucleDoWhileTest {
 		int edad = 0;
 		Float kilos = 0f;
 		Float estatura = 0f;
-		
-		
+
 		do {
 			System.out.println("Ingresa tu estatura");
 			estatura = sc.nextFloat();

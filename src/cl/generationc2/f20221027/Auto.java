@@ -91,8 +91,4 @@ public class Auto {
 		return "Auto [marca=" + marca + ", color=" + color + ", modelo=" + modelo + ", cilindrada=" + cilindrada
 				+ ", rendimiento=" + rendimiento + ", velocidad=" + velocidad + "]";
 	}
-	
-	
-	
-	
 }

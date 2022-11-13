@@ -28,16 +28,7 @@ public class Arreglos {
 		System.out.println(sinNumeros.length);
 		//sinNumeros[0]=78;//para un arreglo vacio NO SE PUEDE
 		System.out.println(Arrays.toString(sinNumeros));
-		
-		
-				
-				
-				
-				
-				
-				
-				
-				
+
 				//crear un array de numeros flotantes de tamaño 6.
 				
 				

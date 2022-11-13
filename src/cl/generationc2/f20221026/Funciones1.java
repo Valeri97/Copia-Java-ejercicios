@@ -3,7 +3,6 @@ package cl.generationc2.f20221026;
 import java.util.Arrays;
 
 public class Funciones1 {
-
 	public static void main(String[] args) {
 		// FUNCIONES o METODOS
 
@@ -28,17 +27,13 @@ public class Funciones1 {
 		//swagger (invesitgar a cerca de documentar).
 		llamadaAOtroMetodo();
 	}
-
 	// definicion o estructura de un metodo
 	// void --> el metodo no retorna ningun valor,
 	public static void nombreMetodo() {
 		System.out.println("Estoy dentro del metodo inicial...");
-
 	}
-
 	public static void metodo2(String nombre) {// nombre es un tipo de dato
 		System.out.println("soy " + nombre);
-
 	}
 
 	public static void metodo3(Integer numero) {// nombre es un tipo de dato

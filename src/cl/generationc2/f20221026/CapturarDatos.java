@@ -7,10 +7,8 @@ public class CapturarDatos {
 	public static void main(String[] args) {
 		// Capturar datos ingresados por el usuario
 		Float IMC = calculoIMC();
-		//nivelIMC(IMC); 
-		
+		//nivelIMC(IMC);
 	}
-
 	public static Float calculoIMC() {
 		Scanner sc = new Scanner(System.in);
 		// calculo del IMC(indice masa muscular);
@@ -47,5 +45,4 @@ public class CapturarDatos {
 			System.out.println("El paciente esta en el rango OBESO");
 		}
 	}
-	
 }

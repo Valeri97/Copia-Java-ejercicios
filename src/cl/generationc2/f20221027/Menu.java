@@ -94,7 +94,5 @@ public class Menu {
 			System.out.println("Opcion no valida");
 			break;
 		}
-
 	}
-
 }
